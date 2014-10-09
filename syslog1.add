@@ -1,0 +1,6 @@
+errnotify:
+        en_name = "syslog1"
+        en_persistenceflg = 1
+        en_class = "H"
+        en_type = "PERM"
+        en_method = logger -pdaemon.crit `/usr/local/bin/errorchk.ksh`
