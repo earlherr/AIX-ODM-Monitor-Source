@@ -1,5 +1,5 @@
 #!/bin/ksh
-# Earl Herr 4/2000
+# Earl Herr 4/2001
 #
 # Converted from custom Tivoli TEC interface script
 # Earl Herr 11/01/2005
